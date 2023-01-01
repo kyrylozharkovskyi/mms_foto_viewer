@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg2"
+   viewBox="0 0 48 48"
+   version="1.1"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="right1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="16.916667"
+     inkscape:cx="23.970443"
+     inkscape:cy="24.029557"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <filter
+       id="filter3659"
+       color-interpolation-filters="sRGB"
+       x="-0.019199965"
+       y="-0.019199762"
+       width="1.0383999"
+       height="1.0383995">
+      <feGaussianBlur
+         id="feGaussianBlur3661"
+         stdDeviation="0.36939277" />
+    </filter>
+    <linearGradient
+       id="linearGradient3669"
+       y2="24.047"
+       gradientUnits="userSpaceOnUse"
+       x2="24.392"
+       gradientTransform="rotate(180,13.656499,24.023337)"
+       y1="24.047"
+       x1="-17.765">
+      <stop
+         id="stop3630"
+         style="stop-color:#dbdbdb"
+         offset="0" />
+      <stop
+         id="stop3632"
+         style="stop-color:#757575"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <path
+     id="path2827"
+     style="opacity:0.77888;fill:#1d1d1d;filter:url(#filter3659)"
+     d="m 22.946,0.94922 c -14.562,0.20248 -25.749,16.229 -20.875,29.969 3.8319,13.923 21.975,20.726 33.969,12.812 12.663,-7.015 14.899,-26.368 4.313,-36.124 -4.516,-4.5116 -10.98,-7.0307 -17.407,-6.6568 z m 1.2188,8.6563 c 1.3989,0.074333 5.4056,0.14286 1.7059,1.4071 -4.902,2.5544 -11.522,7.2066 -15.425,8.4679 1.8075,-5.7888 7.624,-9.9964 13.719,-9.875 z m 10.094,4.1875 c 5.5946,5.3181 5.5795,15.105 -0.03125,20.406 0.02092,-6.7753 -0.04099,-13.755 0.03125,-20.406 z m -15.469,19.094 c 1.0422,1.566 11.981,4.9586 6.7812,5.4062 -6.6951,0.79624 -13.576,-3.7863 -15.25,-10.312 l 8.4688,4.9062 z"
+     transform="rotate(180,23.999906,24.000266)" />
+  <path
+     id="path2835"
+     style="fill:url(#linearGradient3669)"
+     d="m 23.984,45.0779 c 11.642,0 21.094,-9.4202 21.094,-21.062 0,-11.6418 -9.4515,-21.094 -21.094,-21.094 -11.6425,0 -21.062,9.4515 -21.062,21.094 0,11.6425 9.4202,21.062 21.062,21.062 z m 0,-4.6875 c -2.9175,0 -5.6592,-0.75725 -8.0312,-2.0938 l 12.344,-7.125 12.062,-6.9375 c -0.1167,8.944 -7.402,16.156 -16.375,16.156 z m -8.125,-2.1562 c -4.9283,-2.822 -8.25,-8.131 -8.25,-14.219 0,-6.0878 3.3217,-11.397 8.25,-14.219 v 14.219 z m 24.5,-14.438 -12.062,-6.9688 -12.312,-7.125 c 2.3634,-1.3234 5.098,-2.0625 8,-2.0625 8.9727,0 16.258,7.2114 16.375,16.156 z" />
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>GColor2 icon</dc:title>
+        <dc:date>2010-10-09T13:41:41</dc:date>
+        <dc:description>Icon for GColor2 tool with look and feel of AwOken GTK icon theme.</dc:description>
+        <dc:source>https://openclipart.org/detail/89251/gcolor2-icon-by-kuba</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>kuba</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>AwOken</rdf:li>
+            <rdf:li>gcolor</rdf:li>
+            <rdf:li>grey</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>shadow</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

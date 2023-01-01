@@ -1,0 +1,29 @@
+Kappazunder Testdatensatz 2020 Wien
+LINK: https://www.data.gv.at/katalog/en/dataset/stadt-wien_kappazunder-testdatensatz-2020-wien#resources
+
+Kappazunder ist eine innovative Datenquelle der Stadt Wien, die ein digitales Abbild des öffentlichen Raumes darstellt. Die Geodaten wurden im Zuge einer fahrzeuggebundenen Mobile Mapping Kampagne am 08.07.2020 erhoben und beinhalten geodätisch verortete Bilddaten, Punktwolken, die zugehörige Navigationsinformation (Trajektorie) und räumlichen Orientierungen. Geodätisch bedeutet, dass die Verortung der Geodaten weitgehend mit einer Abweichung zur Referenz von unter 10 Zentimetern georeferenziert sind. Die Bilddaten wurden während der Fahrt von einem Vermessungsauto mit einem lateralen Bildabstand von rund drei Metern gesammelt. Die Bilddaten wurden nach aktuellem Stand der Technik anonymisiert (Personen und Kennzeichen). Das Laserscanning System tastete zusätzlich zu den Bildern die Umgebung mit einer Reichweite von bis zu 50 Metern mit einer Genauigkeit von wenigen Zentimetern ab. Die Geodaten beziehen sich auf eine Trajektorie, die durch eine hochfrequente Messung mit einer Inertialeinheit (Beschleunigungssensoren) ermittelt wurde. Abgegeben wird der Testdatensatz Kappazunder in der offenen Datenschnittstelle Kappazunder. Hinweis: Kappazunder wird übrigens bewusst mit Doppel P geschrieben, um den photogrammetrischen Drehwinkel Kappa zu würdigen. https://digitales.wien.gv.at/projekt/kappazunder/
+
+Info 
+Resources 
+Applications 
+
+
+______
+
+Publisher
+Stadt Wien
+
+Category
+Regionen & Städte
+
+Tags
+2020 Befahrung Bilddaten Kappazunder LIDAR Laserscanning MA41 MLS Mobile Mapping Punktwolke Stadtvermessung Trajektorie ViennaGIS Wien gibt Raum
+
+API Link to Metadata
+/api/3/action/package_show?id=4a2203cb-ed49-4e51-8f41-0bdfd821e9c3
+
+RSS Feed for Stadt Wien
+Changed datasets
+
+Metadata Modified
+October 8, 2021, 10:04 AM (UTC+02:00)

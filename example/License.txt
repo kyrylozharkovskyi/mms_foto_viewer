@@ -1,0 +1,33 @@
+Data from Stadt Wien with author changes
+LICENSES: https://creativecommons.org/licenses/by/4.0/deed.en
+_________________________________
+
+Maintainer	        Magistrat Wien - Magistratsabteilung 41 - Stadtvermessung
+Maintainer Link	        https://www.wien.gv.at/kontakte/ma41/index.html
+Maintainer Email	ogd@ma41.wien.gv.at
+Publisher	        Stadt Wien
+Publisher Link	        https://digitales.wien.gv.at
+Publisher Email	        open@post.wien.gv.at
+License	                Creative Commons Namensnennung 4.0 International https://creativecommons.org/licenses/by/4.0/deed.en
+License Citation	Datenquelle: Stadt Wien - https://data.wien.gv.at
+
+Terms URL	        https://data.wien.gv.at/nutzungsbedingungen
+Geographic Toponym	Wien
+Geographic Bounding Box	WGS84: POLYGON ((16.577511 48.322571, 16.18218 48.117668))
+Beginning Date/Time	July 8, 2020, 2:00 AM (UTC+02:00)
+End Date/Time	        July 8, 2020, 2:00 AM (UTC+02:00)
+Update Frequency	nicht geplant
+Lineage Quality	        Die Daten wurden mit einem zugleich bildgebenden und scannenden Mobile Mapping System erfasst. 
+                        Die Bilddaten (gesamte Cubemap) haben eine Auflösung von 250 Megapixel. Der Laserscanner hat eine Messgenauigkeit von +/- 2cm und tastet die Umgebung mit 32 Laser-Fächern ab.
+                        Die Georeferenzierung der Daten hat weitgehend eine Abweichung zur Referenz von unter 10 Zentimetern. <br> Die Bilddaten sind nach Stand der Technik anonymisiert.
+                        Das heißt Kennzeichen und Personen wurden verpixelt und unkenntlich gemacht. <br> Sollte trotzdem ein direkter Personenbezug herstellbar sein,
+                        kann jederzeit ein Widerspruch eingelegt und eine nachträgliche Verpixelung beantragt werden.<br> Bitte teilen Sie folgende Informationen mit:<br> 1. 
+                        Was ist zu sehen (Kennzeichen oder Person)<br> 2. Beschreibung oder Screenshot<br> 3. Sensor-Nummer (z.B. Sensor_110042)<br> 4.
+                        Bildname (z.B. WE1MRDHG.jpg)<br> Sollte eine nachträgliche Verpixelung erfolgt sein, wird der Datensatz für den Download aktualisiert. Weiterführ
+                        nd werden die bearbeiteten Dateien hier aufgelistet.
+Schema Name	        OGD Austria Metadata 2.4
+Schema Language	        ger
+Schema Characterset	utf8
+ID	                4a2203cb-ed49-4e51-8f41-0bdfd821e9c3
+
+https://creativecommons.org/licenses/by/4.0/deed.en
